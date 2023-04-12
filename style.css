@@ -1,0 +1,308 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #ffffff;
+}
+
+.principal{
+    width: 1340px;
+    height: 1600px;
+    margin: 0 auto;
+    background-color: #d2c398;
+    position: relative;
+}
+.contenedor1{
+    width: 290px;
+    height: 730px;
+    background-color: #d2c398;
+    border: 2px solid black;
+    position: relative;
+    top: 50px;
+    left: 40px; 
+}
+
+.texto1 p{
+    text-align: center;
+    font-size: 18px
+}
+
+.text2 p{
+    text-align: center;
+    font-size: 18px 
+}
+
+.text3 p{
+    text-align: center;
+    position: relative;
+    top: -15px;
+    font-size: 25px 
+}
+
+.text4 p{
+    text-align: center;
+    position: relative;
+    top: -45px;
+    font-size: 15px  
+}
+
+.text5 p{
+    text-align: center;
+    position: relative;
+    top: -45px;
+    font-size: 15px  
+}
+
+.text6 p{
+    text-align: center;
+    position: relative;
+    top: -70px;
+    font-size: 25px  
+}
+
+.text7 p{
+    text-align: center;
+    position: relative;
+    top: -100px;
+    font-size: 15px  
+}
+
+.text8 p{
+    text-align: center;
+    position: relative;
+    top: -110px;
+    z-index: 1;
+    font-size: 18px 
+}
+
+.contenedor2{
+    width: 290px;
+    position: relative;
+    height: 730px;
+    background-color: #d2c398;
+    border: 2px solid black;
+    top: -685px;
+    left: 350px;
+
+}
+
+.texto2 p{
+    text-align: center;
+    position: relative;
+    top: -14px;
+    font-size: 22px
+}
+
+.texto3 li{
+    position: relative;
+    top: -35px;
+    left: 50px;
+    font-size: 15px 
+}
+
+.texto4 h1{
+    text-align: left;
+    left: 10px;
+    position: relative;
+    top: -60px;
+    z-index: 1;
+    font-size: 45px
+}
+
+.texto5 h2{
+    text-align: left;
+    left: 210px;
+    position: relative;
+    top: -120px;
+    z-index: 1;
+    font-size: 20px
+}
+
+.precio{
+    width: 230px;
+    position: relative;
+    top: 580px;
+}
+
+.moño{
+    width: 290px;
+    
+}
+
+.braz{
+    width: 290px;
+}
+
+.contenedor3{
+    position: relative;
+    width: 600px;
+    height: 760px;
+    background-color: #d2c398;
+    border: 2px solid black;
+    top: -665px;
+    left: 40px; 
+}
+
+.Titulo h1{
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+    top: -75px;
+}
+
+.subtitulo h2{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: -150px;
+}
+
+.subde p{
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    top: -170px;
+}
+
+.titulo h2{
+    font-size: 18px;
+    text-align: left;
+    position: relative;
+    top: -1120px;
+    left: 105%;
+}
+
+.subtitulo p{
+    font-size: 15px;
+    text-align: left;
+    position: relative;
+    top: -1135px;
+    left: 105%;
+}
+
+.titpara p{
+    font-size: 18px;
+    text-align: left;
+    position: relative;
+    top: -170px;
+    left: 10%;
+}
+
+.parrafode p{
+    font-size: 18px;
+    text-align: left;
+    position: relative;
+    top: -190px;
+    left: 10%;
+}
+
+.titpara2 p{
+    font-size: 16px;
+    text-align: justify;
+    position: relative;
+    top: -190px;
+    left: 10%;
+}
+
+.parrafode2{
+    font-size: 16px;
+    text-align: left;
+    position: relative;
+    top: -200px;
+    left: 10%;
+}
+
+
+.parra1{
+    font-size: 18px;
+    text-align: justify;
+    position: relative;
+    top: -599px;
+    left: 55%;
+}
+
+.parra2 p{
+    font-size: 19px;
+    text-align: left;
+    position: relative;
+    top: -610px;
+    right: -55%;
+}
+
+.parra3 li{
+    font-size: 19px;
+    text-align: left;
+    position: relative;
+    top: -610px;
+    right: -55%;
+}
+
+.parra4 p{
+    font-size: 19px;
+    text-align: left;
+    position: relative;
+    top: -625px;
+    right: -60%;  
+}
+
+.parra5 li{
+    font-size: 19px;
+    text-align: left;
+    position: relative;
+    top: -640px;
+    right: -60%;   
+}
+
+.Contenedor{
+    width: 1300px;
+    height: 100px;
+    background-color: #ffffff;
+    position: relative;
+    top: 15px;
+    left: 75px; 
+}
+
+
+.contenedor5 p{
+    position: relative;
+    font-size: 18px;
+    width: 190%;
+    text-align: justify;
+    top: -2175px;
+    z-index: 1;
+    left: 46%
+}
+
+.contenedor6 p{
+    font-size: 18px;
+    width: 190%;
+    text-align: justify;
+    position: absolute;
+    top: -2195px;
+    z-index: 1;
+    left: 70%
+}
+
+.abajo{
+    position: absolute;
+    width: 655px;
+    height: 350px;
+    top: -1040px;
+    left: 45%;
+    z-index: 1;
+}
+
+.vote{
+    position: absolute;
+    width: 140px;
+    height: 130px;
+    top: -950px;
+    left: 13%;
+}
+
+.pie{
+    position: absolute;
+    height: 100px;
+    top: -820px;
+    left: -2%;
+}
+
